@@ -1,4 +1,4 @@
-package Easy.leetcode_2;
+package Easy.leetcode_7;
 
 public class Solution {
 }
