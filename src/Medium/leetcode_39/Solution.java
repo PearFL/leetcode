@@ -22,7 +22,6 @@ public class Solution {
             list.add(candidates[st]);
             dfs(candidates, target - candidates[st], res, st, list);
             list.remove(list.size() - 1);
-
         }
     }
 
